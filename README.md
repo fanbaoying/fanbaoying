@@ -5,4 +5,4 @@
 - 💬 微信：FBY-fan
 - 📫 邮箱：fanbaoying@qq.com
 
-<img width="1407" alt="网罗开发" src="https://user-images.githubusercontent.com/24238160/131975777-535e32be-48a3-45f6-8d73-7621270ffff4.png">
+<img width="500" alt="网罗开发" src="https://user-images.githubusercontent.com/24238160/131975777-535e32be-48a3-45f6-8d73-7621270ffff4.png">
