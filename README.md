@@ -8,3 +8,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanbaoying&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/wxxsw">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fanbaoying&column=7&theme=gruvbox&no-frame=true"/>
+</a> -->
