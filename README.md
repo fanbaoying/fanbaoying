@@ -3,7 +3,7 @@
 - 🌈 公众号：[网罗开发](https://mp.weixin.qq.com/mp/homepage?__biz=MzU4NTI0NDI4MQ==&hid=1&sn=cda43ea268e22a6463fb1c3cf26e4a4b&scene=18#wechat_redirect)
 
 
-<a href="https://github.com/vueyue">
+<a href="https://github.com/fanbaoying">
     <img alt="fanbaoying's github stats" src="https://github-readme-stats.vercel.app/api?username=fanbaoying&show_icons=true&hide_border=true&theme=merko" />
 </a>
 
