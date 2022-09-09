@@ -7,8 +7,8 @@
     <img alt="fanbaoying's github stats" src="https://github-readme-stats.vercel.app/api?username=fanbaoying&show_icons=true&hide_border=true&theme=merko" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanbaoying&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanbaoying&layout=compact)](https://github.com/fanbaoying/FBYInterview-iOS)
 
-<!-- <a href="https://github.com/wxxsw">
+<!-- <a href="https://github.com/fanbaoying">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fanbaoying&column=7&theme=gruvbox&no-frame=true"/>
 </a> -->
