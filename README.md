@@ -1,6 +1,6 @@
 - 💬 微信：FBY-fan
 - 📫 邮箱：fanbaoying@qq.com
-- 🌈 公众号：[网罗开发](https://mp.weixin.qq.com/mp/homepage?__biz=MzU4NTI0NDI4MQ==&hid=1&sn=cda43ea268e22a6463fb1c3cf26e4a4b&scene=18#wechat_redirect)
+- 🌈 公众号：[Swift社区](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxNzgzNTgwMw==&hid=2&sn=300008d85553d7aa837853a39406253a&scene=18#wechat_redirect)
 
 
 <a href="https://github.com/fanbaoying">
