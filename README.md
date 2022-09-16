@@ -1,4 +1,4 @@
-- 💬 微信：FBY-fan
+- 💬 微信：fzhanfei
 - 📫 邮箱：fanbaoying@qq.com
 - 🌈 公众号：[Swift社区](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxNzgzNTgwMw==&hid=2&sn=300008d85553d7aa837853a39406253a&scene=18#wechat_redirect)
 
